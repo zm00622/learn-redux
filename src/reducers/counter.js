@@ -9,3 +9,8 @@ const counterReducer = (state = 0, action) => {
     }
 };
 export default counterReducer;
+
+// The types 'INCREMENT' and 'DECREMENT' are referenced in
+// the file actions > index.js 
+
+// INCREMENT and DECREMENT are merely action types
